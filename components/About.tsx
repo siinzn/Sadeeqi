@@ -9,12 +9,12 @@ const About = () => {
             About Us
           </h2>
           <div className="bg-gray-800/70 backdrop-blur-sm rounded-lg p-10">
-            <p className="text-xl text-gray-200 leading-relaxed" style={{fontFamily: 'Nexa, sans-serif', fontWeight: 400}}>
-              We are the first centralized support ecosystem dedicated to uplifting the UAE's blue-collar workforce. 
-              Our platform bridges the gap between survival and stability by providing one-stop access to affordable necessities, 
-              simplified rights education, and community support. By consolidating scattered resources into a single, 
-              accessible interface, we empower workers to navigate daily life with dignity and security. 
-              We are building the digital infrastructure for the people who build our cities.
+            <p className="text-xl text-center text-gray-200 leading-relaxed" style={{fontFamily: 'Nexa, sans-serif', fontWeight: 400}}>
+              We are the first centralized support platform dedicated in uplifting the UAE's blue-collar workforce. 
+              Our goal is simple: to make their lives easier and safer. Instead of searching everywhere for help, 
+              we bring everything into one simple app. We provide easy answers to legal questions, help with basic needs, 
+              and a place to connect with others.
+
             </p>
           </div>
         </div>

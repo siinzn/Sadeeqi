@@ -18,7 +18,8 @@ const Services = () => {
               <div className="bg-gray-900/60 backdrop-blur-sm rounded-lg p-6">
                 <p className="text-gray-200 leading-relaxed text-lg" style={{fontFamily: 'Nexa, sans-serif', fontWeight: 400}}>
                   A multilingual AI assistant trained specifically on UAE labor regulations and essential services. 
-                  It bridges the literacy gap by translating complex legal texts into simple, verbal explanations in your native language.
+                  It bridges the literacy gap by translating complex legal texts and essential services into simple, verbal explanations in your native 
+                  language. 
                 </p>
               </div>
             </div>

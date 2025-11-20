@@ -31,7 +31,7 @@ const Footer = () => {
       <footer className="border-t border-gray-700 bg-gray-900/80 backdrop-blur-sm py-8">
         <div className="max-w-6xl mx-auto px-6 text-center">
           <p className="text-gray-400" style={{fontFamily: 'Nexa, sans-serif', fontWeight: 400}}>
-            © 2024 Sadeeqi. Supporting UAE's workforce with dignity.
+            © 2025 Sadeeqi. Supporting UAE's workforce with dignity.
           </p>
         </div>
       </footer>

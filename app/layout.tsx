@@ -15,6 +15,10 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Sadeeqi",
   description: "Your Companion in UAE",
+  icons: {
+    icon: '/icon.png', // Place icon.png in the public/ folder
+    apple: '/apple-icon.png',
+  },
 };
 
 export default function RootLayout({
